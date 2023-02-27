@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.item-1 {
+    color: black;
+}
+
+.item-2 {
+    color: black;
+}
+.form-control{
+  width: 500px;
+}
+.nicon{
+  font-size: 20px;
+  padding-left: 20px;
+}
+
+/* categoreis-section */
+
+.babycare{
+  height: 100px;
+  width: 150px;
+  margin-bottom: 10px;
+  padding-right: 30px;
+}
+.handn{
+  height: 120px;
+  width: 150px;
+  margin-bottom: 10px;
+}
+.women{
+  height: 100px;
+  width: 150px;
+  margin-bottom: 10px;
+}
+.personal{
+  height: 100px;
+  width: 150px;
+  margin-bottom: 10px;
+}
+.ayurveda{
+  height: 100px;
+  width: 150px;
+  margin-bottom: 10px;
+}
+.covid{
+  height: 120px;
+  width: 150px;
+  margin-bottom: 10px;
+}
+.categorey-1{
+  text-decoration: none;
+  color: black;
+}
+.categorey-1:hover{
+  text-decoration: none;
+}
+#categorey-1{
+  position: relative;;
+  top: 18px;
+}
+#categorey-3{
+  position: relative;;
+  top: 18px;
+}
+#categorey-4{
+  position: relative;;
+  top: 18px;
+}
+#categorey-5{
+  position: relative;;
+  top: 18px;
+}
+#categorey-6{
+  position: relative;;
+  top: 18px;
+}
+/* carousel Section */
+
+.home{
+  height: 100px;
+  width: 100px;
+  margin-bottom: 10px;
+}
+.image-1{
+  height: 70px;
+  width: 70px;
+  margin-bottom: 10px;
+}
+.cards{
+  margin-right: 20px;
+  margin-top: 20px;
+}
+.image-2{
+  height: 400px;
+  border-radius: 15px;
+}
+
+.cards{
+  background-color: white;
+  padding: 10px;
+  border-radius: 15px;
+  width: 165px;
+}
+.carousel-section{
+  width: 75%;
+}
+
+/* Perscription Section */
+
+.percription{
+  float: left;
+  margin-right: 50px;
+  font-size: 20px;
+}
+.Perscription-card{
+  margin-top: 20px;
+}
+.percription-para{
+  font-weight: bold;
+}
+svg{
+  font-weight: bold;
+}

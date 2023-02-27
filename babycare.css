@@ -1,0 +1,87 @@
+body{
+  background-color: skyblue;
+}
+.product{
+  background-color: white;
+  border-radius: 15px;
+  margin-top: 20px;
+}
+.bcnote{
+  color: #16273b;
+  font-size: 16px;
+}
+span{
+  color: #68707a;
+  font-size: 15px;
+  text-decoration:line-through;
+}
+.bcprice{
+  color: #2b3763;
+  font-weight: bold;
+}
+.bcbutton{
+  background-color:#41b0cc;
+  color: white;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.icon{
+  font-size: 28px;
+  margin-left: 10px;
+}
+.bc-1{
+  height: 100px;
+  width: 130px;
+}
+.bc-2{
+  height: 120px;
+  width: 160px;
+}
+.bc-3{
+  height: 120px;
+  width: 150px;
+}
+.bc-4{
+  height: 130px;
+  width: 130px;
+}
+.bc-5{
+  height: 130px;
+  width: 150px;
+}
+.bc-6{
+  height: 130px;
+  width: 160px;
+}
+.bc-7{
+  height: 120px;
+  width: 150px;
+}
+.bc-8{
+  height: 120px;
+  width: 140px;
+}
+.bc-9{
+  height: 130px;
+  width: 160px;
+}
+.bc-10{
+  height: 140px;
+  width: 140px;
+}
+.bc-11{
+  height: 140px;
+  width: 140px;
+}
+.babycare{
+  height: 100px;
+  width: 150px;
+  margin-bottom: 10px;
+  padding-right: 30px;
+}
+.cards{
+  margin-right: 20px;
+  margin-top: 20px;
+}

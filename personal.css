@@ -1,0 +1,81 @@
+body{
+  background-color: skyblue;
+}
+.product{
+  background-color: white;
+  border-radius: 15px;
+  margin-top: 20px;
+}
+.bcnote{
+  color: #16273b;
+  font-size: 16px;
+}
+span{
+  color: #68707a;
+  font-size: 15px;
+  text-decoration:line-through;
+}
+.bcprice{
+  color: #2b3763;
+  font-weight: bold;
+}
+.bcbutton{
+  background-color:#41b0cc;
+  color: white;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.icon{
+  font-size: 28px;
+  margin-left: 10px;
+}
+.personal-1{
+  height: 140px;
+  width: 160px;
+}
+.personal-2{
+  height: 100px;
+  width: 100px;
+}
+.personal-3{
+  height: 140px;
+  width: 130px;
+}
+.personal-4{
+  height: 130px;
+  width: 120px;
+}
+.personal-5{
+  height: 140px;
+  width: 140px;
+}
+.personal-6{
+  height: 130px;
+  width: 120px;
+}
+.personal-7{
+  height: 130px;
+  width: 150px;
+}
+.personal-8{
+  height: 140px;
+  width: 130px;
+}
+.personal-9{
+  height: 130px;
+  width: 160px;
+}
+.personal-10{
+  height: 140px;
+  width: 150px;
+}
+.wc-11{
+  height: 130px;
+  width: 100px;
+}
+.wc-12{
+  height: 130px;
+  width: 100px;
+}
